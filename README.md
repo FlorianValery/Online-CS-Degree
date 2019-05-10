@@ -62,7 +62,7 @@ Courses | Duration | Effort
 All coursework under Core CS is **required**, unless otherwise indicated.
 
 ### Core programming
-**Topics covered**:
+**Topics covered**:s
 `functional programming`
 `design for testing`
 `program requirements`
