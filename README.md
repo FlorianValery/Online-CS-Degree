@@ -40,16 +40,15 @@ but with support from a worldwide community of fellow learners.
 ## Introduction to Computer Science
 
 **CS50**, like a lot of other people before me, changed my life and made me love computer science. David J. Malan introduces Computer Science to begginers in an amazing and challenging way. Taking this course if you have never writen a line of code before can be
-tough, really tough, completing each week's assignment can feel really rewarding. 
-The content of the course itself is really complete: from how to use a basic command-line interface to how to implement a complexe stock related
-website through explaining how simple algorithms work, CS50 is a incredible class to give you a taste of what Computer Science is.
+tough, really tough, but completing each week's assignment can feel really rewarding. 
+The content of the course itself is really complete: from how to use a basic command-line interface to how to implement a complexe stock related website through explaining how simple algorithms work, CS50 is a incredible class to give you a taste of what Computer Science is.
 
 Courses | Duration | Effort
 :-- | :--: | :--: 
 [CS50's : Introduction to computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)| 11 weeks |
 
 <details>
-<summary>**Overview of what I learnt about**</summary><br>
+<summary> Overview of what I learnt about </summary><br>
 
 - Basic Computational Thinking
 - Scratch 
@@ -64,7 +63,7 @@ Courses | Duration | Effort
 
 </details>
 
-This class also requires a [Final Project] (https://github.com/FlorianValery/MyOSU).
+This class also requires a [Final Project](https://github.com/FlorianValery/MyOSU).
 
 
 ## Core CS
