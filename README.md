@@ -42,6 +42,7 @@ but with support from a worldwide community of fellow learners.
 **CS50**, like a lot of other people before me, changed my life and made me love computer science. David J. Malan introduces Computer Science to begginers in an amazing and challenging way. Taking this course if you have never writen a line of code before can be
 tough, really tough, but completing each week's assignment can feel really rewarding. 
 The content of the course itself is really complete: from how to use a basic command-line interface to how to implement a complexe stock related website through explaining how simple algorithms work, CS50 is a incredible class to give you a taste of what Computer Science is.
+This class also requires a [Final Project](https://github.com/FlorianValery/MyOSU).
 
 Courses | Duration | Effort
 :-- | :--: | :--: 
@@ -63,7 +64,7 @@ Courses | Duration | Effort
 
 </details>
 
-This class also requires a [Final Project](https://github.com/FlorianValery/MyOSU).
+
 
 
 ## Core CS
