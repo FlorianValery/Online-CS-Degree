@@ -49,7 +49,7 @@ Courses | Duration | Effort
 [CS50's : Introduction to computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)| 11 weeks |
 
 <details>
-<summary>Hoverview of what I learnt about</summary><br>
+<summary>**Overview of what I learnt about**</summary><br>
 
 - Basic Computational Thinking
 - Scratch 
@@ -63,6 +63,9 @@ Courses | Duration | Effort
 - Databases (SQL)
 
 </details>
+
+This class also requires a [Final Project] (https://github.com/FlorianValery/MyOSU).
+
 
 ## Core CS
 
