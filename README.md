@@ -66,7 +66,7 @@ Courses | Duration
 
 ## Programming
 
-Because I have been spending a lot of my time working on side projects using Python as the main programming language, I thought that it was also important seriously learn an other one. These courses are all parts of the [Object Oriented Programming Specialization] (https://www.coursera.org/specializations/object-oriented-programming) from UC San Diego & Duke.
+Because I have been spending a lot of my time working on side projects using Python as the main programming language, I thought that it was also important to spend some time learning an other one. The [Object Oriented Programming Specialization](https://www.coursera.org/specializations/object-oriented-programming) from UC San Diego & Duke was perfect, as it's also focusing Object Oriented Programming.
 
 Courses | Duration 
 :-- | :--: 
@@ -75,37 +75,47 @@ Courses | Duration
 [Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks 
 [Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | 6 weeks
 
+<details>
+<summary> Topics covered </summary><br>
+
+- Java OOP
+- Working with CSV's
+- Data Structures (ArrayList, HashMap, HashSet, LinkedList, Trees...)
+- Memory Models
+- Creating GUI's
+- Inheritance, Polymorphism
+- Basic Algorithms (Binary Search, Linear Search, Merge sort etc)
+- Intro to Asymptotic Analysis, benchmark
+
+</details>
+<details>
+<summary> Notable Projects </summary><br>
+
+- Earthquake Map: This is the main project of course 3, and every week's goal is to complete a milestone. The goal is to implement a interactive visualization of a large dataset tagged by geospatial information focus on earthquakes around the world.
+- Speller: This is the main project of course 4, and every week's goal is to complete a milestone. The goal is to implement a 'a smart text editor/processor that incorporates “intelligent” behaviors of modern-day text interfaces including autocomplete, flagging misspelled words and spelling auto-correct'. 
+
+
+</details>
+
+
 #### Readings
 - **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
   
 
-### Core math
+## Math
 
-**Topics covered**:
-`linear transformations`
-`matrices`
-`vectors`
-`mathematical proofs`
-`number theory`
-`differential calculus`
-`integral calculus`
-`sequences and series`
-`discrete mathematics`
-`basic statistics`
-`O-notation`
-`graph theory`
-`vector calculus`
-`discrete probability`
-`and more`
+### Basic Math
+Courses | Duration 
+:-- | :--: 
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - 
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | 15 weeks
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | 15 weeks | 8 hours/week | Essence of Linear Algebra
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 13 weeks | 6-10 hours/week | pre-calculus
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | 13 weeks | 5-10 hours/week | Calculus 1A
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-series) | 13 weeks | 5-10 hours/week | Calculus 1B
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)<sup>**1**</sup> | 13 weeks | 5 hours/week | Calculus 1C
+### Advanced Math
+Courses | Duration 
+:-- | :--:
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | -
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | 15 weeks
+[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)<sup>**1**</sup> | 13 weeks 
 
 <sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
 It is more interactive but less comprehensive, and it costs money to unlock full interactivity.
