@@ -66,20 +66,16 @@ Courses | Duration
 
 ## Programming
 
-Courses | Duration | Effort | Prerequisites
-:-- | :--: | :--: | :--:
-[How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none
-[How to Code - Complex Data](https://www.edx.org/course/how-code-complex-data-ubcx-htc2x) | 6 weeks | 8-10 hours/week | How to Code: Simple Data
-[Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction-ubcx-softconst1x) | 6 weeks | 8-10 hours/week | How to Code - Complex Data
-[Software Construction - Object-Oriented Design](https://www.edx.org/course/software-construction-object-oriented-ubcx-softconst2x) | 6 weeks | 8-10 hours/week | Software Construction - Data Abstraction
-[Programming Languages, Part A](https://www.coursera.org/learn/programming-languages) | 4 weeks | 8-16 hours/week | recommended: Java, C
-[Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8-16 hours/week | Programming Languages, Part A
-[Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
+Courses | Duration 
+:-- | :--: 
+[Java Programming: Solving Problems with Software](www.coursera.org%2Flearn%2Fjava-programming) | 4 weeks 
+[Java Programming: Arrays, Lists, and Structured Data](www.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data) | 6 weeks 
+[Object Oriented Programming in Java](www.coursera.org%2Flearn%2Fobject-oriented-java) | 6 weeks 
+[Data Structures and Performance](www.coursera.org%2Flearn%2Fdata-structures-optimizing-performance) | 6 weeks
 
 #### Readings
 - **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
-  - **Note**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
-- **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://lpn.swi-prolog.org/lpnpage.php?pageid=top)
+  
 
 ### Core math
 
