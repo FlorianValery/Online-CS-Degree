@@ -1,4 +1,4 @@
-<h1 align="center">My Online Path to a Full Online Computer Science Degree</h1>
+<h1 align="center">Online Path to a Full Online Computer Science Degree</h1>
 
 
 
@@ -15,12 +15,6 @@
 
 # Overview
 
-The OSSU curriculum is a **complete education in computer science** using online materials.
-It's not merely for career training or professional development.
-It's for those who want a proper, *well-rounded* grounding in concepts fundamental to all computing disciplines,
-and for those who have the discipline, will, and (most importantly!) good habits to obtain this education largely on their own,
-but with support from a worldwide community of fellow learners.
-
 
 # Curriculum
 
@@ -28,12 +22,11 @@ but with support from a worldwide community of fellow learners.
 
 - [Prerequisites](#prerequisites)
 - [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core applications](#core-applications)
+- [Programming](#programming)
+- [Math](#math)
+- [Systems](#systems)
+- [Theory](#theory)
+- [Specializations](#capplication)
 
 
 ## Introduction to Computer Science
@@ -62,16 +55,25 @@ Courses | Duration
 - Databases (SQL)
 
 </details>
+<details>
+<summary> Notable Projects </summary><br>
+
+- [CS50 Finance](https://finance.cs50.net/) : This is the main imposed project throughout the course. The goal is to implement a fully functional website where we can buy and sell stocks, using real live data.
+- [Final Project](https://github.com/FlorianValery/MyOSU) : Final project of our choice where we a free to build anything we want, as long as it draws upon CS50’s lessons. I decided to implement a fictive e-learning platform. 
+
+</details>
 
 
 ## Programming
 
+Because I have been spending a lot of my time working on side projects using Python as the main programming language, I thought that it was also important seriously learn an other one. These courses are all parts of the [Object Oriented Programming Specialization] (https://www.coursera.org/specializations/object-oriented-programming) from UC San Diego & Duke.
+
 Courses | Duration 
 :-- | :--: 
-[Java Programming: Solving Problems with Software](www.coursera.org%2Flearn%2Fjava-programming) | 4 weeks 
-[Java Programming: Arrays, Lists, and Structured Data](www.coursera.org%2Flearn%2Fjava-programming-arrays-lists-data) | 6 weeks 
-[Object Oriented Programming in Java](www.coursera.org%2Flearn%2Fobject-oriented-java) | 6 weeks 
-[Data Structures and Performance](www.coursera.org%2Flearn%2Fdata-structures-optimizing-performance) | 6 weeks
+[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | 4 weeks 
+[Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | 6 weeks 
+[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks 
+[Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | 6 weeks
 
 #### Readings
 - **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
