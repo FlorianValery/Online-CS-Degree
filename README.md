@@ -6,7 +6,6 @@
 
 - [Overview](#overview)
 - [Curriculum](#curriculum)
-  - [Prerequisites](#prerequisites)
   - [Introduction to Computer Science](#introduction-to-computer-science)
   - [Core CS](#core-cs)
   - [Advanced CS](#advanced-cs)
@@ -44,12 +43,12 @@ tough, really tough, but completing each week's assignment can feel really rewar
 The content of the course itself is really complete: from how to use a basic command-line interface to fully implementing a complexe stock related website through explaining how simple algorithms work, CS50 is a incredible class to give you a taste of what Computer Science is.
 This class also requires a [Final Project](https://github.com/FlorianValery/MyOSU).
 
-Courses | Duration | Effort
-:-- | :--: | :--: 
-[CS50's : Introduction to computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)| 11 weeks |
+Courses | Duration 
+:-- | :--: 
+[CS50's : Introduction to computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)| 11 weeks 
 
 <details>
-<summary> Overview of what I learnt about </summary><br>
+<summary> Topics covered </summary><br>
 
 - Basic Computational Thinking
 - Scratch 
@@ -65,27 +64,7 @@ Courses | Duration | Effort
 </details>
 
 
-
-
-## Core CS
-
-All coursework under Core CS is **required**, unless otherwise indicated.
-
-### Core programming
-**Topics covered**:s
-`functional programming`
-`design for testing`
-`program requirements`
-`common design patterns`
-`unit testing`
-`object-oriented design`
-`Java`
-`static typing`
-`dynamic typing`
-`ML-family languages (via Standard ML)`
-`Lisp-family languages (via Racket)`
-`Ruby`
-`and more`
+## Programming
 
 Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
