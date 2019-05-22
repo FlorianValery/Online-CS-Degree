@@ -114,7 +114,7 @@ Courses | Author
 
 
 
-### Advanced Math
+### Advanced Math - General Math
 Courses | Author | Duration 
 :-- | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown (Youtube) | -
@@ -122,6 +122,8 @@ Courses | Author | Duration
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | MIT | 8 weeks
+
+### Advanced Math - Mathematics for Computer Science
 
 Courses | Author | Duration 
 :-- | :--: |  :--:
