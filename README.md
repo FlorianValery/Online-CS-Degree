@@ -104,32 +104,33 @@ Courses | Author | Duration
 
 ## Math
 
-### Basic Math (Khan Academy)
-Courses 
-:-- 
-[Pre-algebra](https://www.khanacademy.org/math/pre-algebra) 
-[Algebra 1](https://www.khanacademy.org/math/algebra) 
-[Algebra 2](https://www.khanacademy.org/math/algebra2) 
-[Precalculus](https://www.khanacademy.org/math/precalculus) 
+### Basic Math 
+Courses | Author
+:-- | :--: 
+[Pre-algebra](https://www.khanacademy.org/math/pre-algebra) | Khan Academy
+[Algebra 1](https://www.khanacademy.org/math/algebra) | Khan Academy
+[Algebra 2](https://www.khanacademy.org/math/algebra2) | Khan Academy
+[Precalculus](https://www.khanacademy.org/math/precalculus) | Khan Academy
 
 
 
 ### Advanced Math
-Courses | Duration 
-:-- | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | -
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | 15 weeks
-[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 12 weeks
-[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | 15 weeks
-[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | 8 weeks
+Courses | Author | Duration 
+:-- | :--: | :--:
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 
+3Blue1Brown (Youtube) | 
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | University of Texas | 15 weeks
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | MIT | 8 weeks
 
-Courses | Duration 
-:-- | :--:
-[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | 6 weeks
-[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics)  | 6 weeks
-[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | 5 weeks
-[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=dis) | 4 weeks
-[Delivery Problem](https://www.coursera.org/learn/delivery-problem) | 3 weeks
+Courses | Author | Duration 
+:-- | :--: |  :--:
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | UC San Diego & HSE  | 6 weeks
+[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics)  | UC San Diego & HSE | 6 weeks
+[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | UC San Diego & HSE | 5 weeks
+[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=dis) | UC San Diego & HSE | 4 weeks
+[Delivery Problem](https://www.coursera.org/learn/delivery-problem) | UC San Diego & HSE | 3 weeks
 
 
 
