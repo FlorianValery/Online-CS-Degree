@@ -136,7 +136,7 @@ Courses | Author | Duration
 
 
 
-### Core systems
+## Systems
 
 
 Courses | Author | Duration 
@@ -147,7 +147,7 @@ Courses | Author | Duration
 #### Readings
 - [Nand to Tetris Book](https://www.nand2tetris.org/course).
 
-### Core theory
+## Theory
 
 
 Courses | Author | Duration 
