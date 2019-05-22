@@ -105,6 +105,7 @@ Courses | Author | Duration
 ## Math
 
 **Basic Math** 
+
 Courses | Author
 :-- | :--: 
 [Pre-algebra](https://www.khanacademy.org/math/pre-algebra) | Khan Academy
@@ -114,6 +115,7 @@ Courses | Author
 
 
 **Advanced Math - General Math**
+
 Courses | Author | Duration 
 :-- | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown (Youtube) | -
