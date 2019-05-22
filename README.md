@@ -139,8 +139,7 @@ Courses | Author | Duration
 
 Courses | Author | Duration 
 :-- | :--: | :--: 
-
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week 
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | The Hebrew University of Jerusalem | 6 weeks
 
 
 #### Readings
