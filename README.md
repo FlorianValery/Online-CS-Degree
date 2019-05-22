@@ -7,10 +7,10 @@
 - [Overview](#overview)
 - [Curriculum](#curriculum)
   - [Introduction to Computer Science](#introduction-to-computer-science)
-  - [Core CS](#core-cs)
-  - [Advanced CS](#advanced-cs)
-  - [Final project](#final-project)
-  - [Pro CS](#pro-cs)
+  - [Programming](#programing)
+  - [Math](#math)
+  - [System](#system)
+  - [Theory](#theory)
 - [References](#references)
 
 # Overview
@@ -26,7 +26,7 @@
 - [Math](#math)
 - [Systems](#systems)
 - [Theory](#theory)
-- [Specializations](#capplication)
+
 
 
 ## Introduction to Computer Science
