@@ -36,9 +36,9 @@ tough, really tough, but completing each week's assignment can feel really rewar
 The content of the course itself is really complete: from how to use a basic command-line interface to fully implementing a complexe stock related website through explaining how simple algorithms work, CS50 is a incredible class to give you a taste of what Computer Science is.
 This class also requires a [Final Project](https://github.com/FlorianValery/MyOSU).
 
-Courses | Duration 
-:-- | :--: 
-[CS50's : Introduction to computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)| 11 weeks 
+Courses | Author | Duration 
+:-- | :--: | :--: 
+[CS50's : Introduction to computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science)| Harvard | 11 weeks 
 
 <details>
 <summary> Topics covered </summary><br>
@@ -68,12 +68,12 @@ Courses | Duration
 
 Because I have been spending a lot of my time working on side projects using Python as the main programming language, I thought that it was also important to spend some time learning an other one. The [Object Oriented Programming Specialization](https://www.coursera.org/specializations/object-oriented-programming) from UC San Diego & Duke was perfect, as it's also focusing Object Oriented Programming.
 
-Courses | Duration 
-:-- | :--: 
-[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | 4 weeks 
-[Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | 6 weeks 
-[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | 6 weeks 
-[Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | 6 weeks
+Courses | Author | Duration 
+:-- | :--: | :--: 
+[Java Programming: Solving Problems with Software](https://www.coursera.org/learn/java-programming) | Duke | 4 weeks 
+[Java Programming: Arrays, Lists, and Structured Data](https://www.coursera.org/learn/java-programming-arrays-lists-data) | Duke | 6 weeks 
+[Object Oriented Programming in Java](https://www.coursera.org/learn/object-oriented-java) | UC San Diego | 6 weeks 
+[Data Structures and Performance](https://www.coursera.org/learn/data-structures-optimizing-performance) | UC San Diego | 6 weeks
 
 <details>
 <summary> Topics covered </summary><br>
@@ -99,26 +99,40 @@ Courses | Duration
 
 
 #### Readings
-- **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
+- [Java Official Doc (Oracle)](https://docs.oracle.com/javase/7/docs/api/)
   
 
 ## Math
 
-### Basic Math
-Courses | Duration 
-:-- | :--: 
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - 
-[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | 15 weeks
+### Basic Math (Khan Academy)
+Courses 
+:-- 
+[Pre-algebra](https://www.khanacademy.org/math/pre-algebra) 
+[Algebra 1](https://www.khanacademy.org/math/algebra) 
+[Algebra 2](https://www.khanacademy.org/math/algebra2) 
+[Precalculus](https://www.khanacademy.org/math/precalculus) 
+
+
 
 ### Advanced Math
 Courses | Duration 
 :-- | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | -
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | 15 weeks
-[Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)<sup>**1**</sup> | 13 weeks 
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | 12 weeks
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | 15 weeks
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | 8 weeks
 
-<sup>**1**</sup>: Students struggling with MIT Math for CS can consider taking the [Discrete Mathematics Specialization](https://www.coursera.org/specializations/discrete-mathematics) first.
-It is more interactive but less comprehensive, and it costs money to unlock full interactivity.
+Courses | Duration 
+:-- | :--:
+[Mathematical Thinking in Computer Science](https://www.coursera.org/learn/what-is-a-proof?specialization=discrete-mathematics) | 6 weeks
+[Combinatorics and Probability](https://www.coursera.org/learn/combinatorics?specialization=discrete-mathematics)  | 6 weeks
+[Introduction to Graph Theory](https://www.coursera.org/learn/graphs?specialization=discrete-mathematics) | 5 weeks
+[Number Theory and Cryptography](https://www.coursera.org/learn/number-theory-cryptography?specialization=dis) | 4 weeks
+[Delivery Problem](https://www.coursera.org/learn/delivery-problem) | 3 weeks
+
+
+
 
 ### Core systems
 
