@@ -117,8 +117,7 @@ Courses | Author
 ### Advanced Math
 Courses | Author | Duration 
 :-- | :--: | :--:
-[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 
-3Blue1Brown (Youtube) | 
+[Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 3Blue1Brown (Youtube) | -
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers-0) ([alt](http://ulaff.net/)) | University of Texas | 15 weeks
 [Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation) | MIT | 12 weeks
 [Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration) | MIT | 15 weeks
@@ -141,7 +140,7 @@ Courses | Author | Duration
 Courses | Author | Duration 
 :-- | :--: | :--: 
 
-[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week 
+[Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week 
 
 
 #### Readings
