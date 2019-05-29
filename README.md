@@ -93,8 +93,6 @@ Courses | Author | Duration
 
 - Earthquake Map: This is the main project of course 3, and every week's goal is to complete a milestone. The goal is to implement a interactive visualization of a large dataset tagged by geospatial information focus on earthquakes around the world.
 - Speller: This is the main project of course 4, and every week's goal is to complete a milestone. The goal is to implement a 'a smart text editor/processor that incorporates “intelligent” behaviors of modern-day text interfaces including autocomplete, flagging misspelled words and spelling auto-correct'. 
-
-
 </details>
 
 
