@@ -133,8 +133,6 @@ Courses | Author | Duration
 [Delivery Problem](https://www.coursera.org/learn/delivery-problem) | UC San Diego & HSE | 3 weeks
 
 
-
-
 ## Systems
 
 
