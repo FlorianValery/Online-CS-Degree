@@ -21,8 +21,6 @@ Here is the record of the courses I have taken, and some useful information abou
 
 # Curriculum
 
-
-- [Prerequisites](#prerequisites)
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Programming](#programming)
 - [Math](#math)
