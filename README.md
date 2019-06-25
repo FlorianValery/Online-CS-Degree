@@ -1,4 +1,4 @@
-<h1 align="center">Online Path to a Full Online Computer Science Degree</h1>
+<h1 align="center">Online Path to an Online Computer Science Degree Equivalent</h1>
 
 
 
