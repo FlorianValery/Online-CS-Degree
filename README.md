@@ -15,7 +15,9 @@
 
 # Overview
 
-=>overview
+At the end of 2018, I decided to fully commit myself towards Computer Science. I hold a bachelor degree in Foreign Languages (English & Chinese), so the transition was not easy. My goal was to obtain the equivalent of a real computer science BA through MOOCs and other online courses, ultimately to be able to apply for master degrees. 
+Here is the record of the courses I have taken, and some useful information about them (duration, knowledge acquired etc).
+
 
 # Curriculum
 
@@ -102,6 +104,10 @@ Courses | Author | Duration
 
 ## Math
 
+Coming from a non-technical degree, having a strong foundation in Maths was really important. Therefore, I decided to start over from Pre-algebra. Khan Academy was really useful for this.
+When it comes to Linear ALgebra and Discrete Maths - which are probably the most important fields for CS students , the University of Texas and UC San Diego's respective courses are great and well explained
+
+
 **Basic Math** 
 
 Courses | Author
@@ -133,19 +139,38 @@ Courses | Author | Duration
 [Delivery Problem](https://www.coursera.org/learn/delivery-problem) | UC San Diego & HSE | 3 weeks
 
 
+#### Readings
+- [Concrete Mathematics: A Foundation for Computer Science](https://www.amazon.fr/Concrete-Mathematics-Foundation-Computer-Science/dp/0201142368/ref=pd_cart_vw_2_2/259-7976636-9892928?_encoding=UTF8&pd_rd_i=0201142368&pd_rd_r=4ddd028e-c776-4af0-ae06-f941cdd45eea&pd_rd_w=iTlta&pd_rd_wg=WrnSc&pf_rd_p=33e7f43c-89b7-4194-b6d8-7f16b19de1bd&pf_rd_r=W384PW9MAN5CZ8YDM904&psc=1&refRID=W384PW9MAN5CZ8YDM904)
+
+
+
 ## Systems
 
+Nand2tetris is THE reference when it comes to understanding computer hardware. This class literaly made me start with logic gates, the most primitive components that you can find in a computer, through building a complete computing system which is able to play Tetris. This course was extremely tough, but I now have a deeper understanding about how computers work. 
 
 Courses | Author | Duration 
 :-- | :--: | :--: 
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) | The Hebrew University of Jerusalem | 6 weeks
 
 
+<details>
+<summary> Topics covered </summary><br>
+
+- Boolean Functions and Gate Logic
+- Boolean Arithmetic and the ALU
+- Memory
+- Machine Language
+- Computer Architecture
+- Assembler
+
+</details>
+
 #### Readings
 - [Nand to Tetris Book](https://www.nand2tetris.org/course).
 
 ## Theory
 
+Tim Roughgarden's course at Stanford University is probably the most complex course about Data Structures and Algorithms. Can be really challenging, but rewarding as well.
 
 Courses | Author | Duration 
 :-- | :--: | :--: 
@@ -153,5 +178,20 @@ Courses | Author | Duration
 [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures) | Stanford | 4 weeks 
 [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/learn/algorithms-greedy) | Stanford | 4 weeks 
 [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/learn/algorithms-npcomplete) | Stanford | 4 weeks 
+
+<details>
+<summary> Topics covered </summary><br>
+
+- Asymptotic Analysis
+- Divide & Conquer Algos
+- Randomized Algos
+- Graph Primitives
+- Greedy Algos
+- Minimum Spanning Trees
+- NP-Compete Problems
+</details>
+
+
+
 
 
