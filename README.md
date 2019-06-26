@@ -10,7 +10,7 @@
   - [Programming](#programing)
   - [Math](#math)
   - [System](#system)
-  - [Theory](#theory)
+  - [Data Structure and Algorithms](#data-structure-and-algorithms)
 - [References](#references)
 
 # Overview
