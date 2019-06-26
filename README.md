@@ -25,7 +25,7 @@ Here is the record of the courses I have taken, and some useful information abou
 - [Programming](#programming)
 - [Math](#math)
 - [Systems](#systems)
-- [Theory](#theory)
+- [Data Structure and Algorithms](#data-structure-and-algorithms)
 
 
 
@@ -166,7 +166,7 @@ Courses | Author | Duration
 #### Readings
 - [Nand to Tetris Book](https://www.nand2tetris.org/course).
 
-## Theory
+## Data Structure and Algorithms
 
 Tim Roughgarden's course at Stanford University is probably the most complex course about Data Structures and Algorithms. Can be really challenging, but rewarding as well.
 
