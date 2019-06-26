@@ -189,6 +189,8 @@ Courses | Author | Duration
 - NP-Compete Problems
 </details>
 
+#### Readings
+- [Data Structures and Algorithms Made Easy: Data Structures and Algorithmic Puzzles,](https://www.amazon.fr/Data-Structures-Algorithms-Made-Easy/dp/819324527X/ref=pd_cart_vw_2_8/259-7976636-9892928?_encoding=UTF8&pd_rd_i=819324527X&pd_rd_r=33e77c9a-7772-4088-b1a6-c5cc9386f549&pd_rd_w=WfZfC&pd_rd_wg=w8Rd2&pf_rd_p=33e7f43c-89b7-4194-b6d8-7f16b19de1bd&pf_rd_r=EW0ZRNB0QCMTFBG0TCCK&psc=1&refRID=EW0ZRNB0QCMTFBG0TCCK).
 
 
 
